@@ -9,6 +9,11 @@ EDIT AS OF 2/22 IT WORKS VERY **GOOD** YOU NEED TO USE `v2.lua` its BETTER.
 # image blah #
 ![image](https://github.com/user-attachments/assets/a62e40db-8122-4927-a5e9-971deda820c2)
 
+# NEW IMAGE 
+
+![image](https://github.com/user-attachments/assets/f29b888f-11dc-43ab-a9c0-9ce09e995841)
+
+
 **TODO** reformat the decompile output cleaner like an actual modulescript. if u do it make sure to @ here or msg me on dc would love it :))
 
 # the story
