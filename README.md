@@ -21,3 +21,7 @@ EDIT AS OF 2/22 IT WORKS VERY **GOOD** YOU NEED TO USE `v2.lua` its BETTER.
 as i was making a games gun modification i wanted to return all the Keys inside of a guns module but i thought *why not just make a decompile func* with this?
 
 it works similar but its not exact. this actually can be used INSTEAD of your garbage getscriptbytecode and send it to Konstant..✅✅
+
+# known PROBLEMS 🛑
+
+seems like it doesnt get the keys value properly if its smth thats not what i support itll return the tables address soooo yeahh I CBA to fix that if you can that would be nice :)
