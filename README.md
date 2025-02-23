@@ -25,3 +25,9 @@ it works similar but its not exact. this actually can be used INSTEAD of your ga
 # known PROBLEMS 🛑
 
 seems like it doesnt get the keys value properly if its smth thats not what i support itll return the tables address soooo yeahh I CBA to fix that if you can that would be nice :)
+
+# CREDITS
+
+speed for sucking a random homelesss guy off for updated require address
+
+ethan for setting an orphanage on fire
